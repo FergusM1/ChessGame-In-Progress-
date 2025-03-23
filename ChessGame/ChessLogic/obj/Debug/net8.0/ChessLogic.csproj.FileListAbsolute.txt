@@ -9,3 +9,15 @@ C:\Users\Fergus\source\repos\ChessGame\ChessLogic\obj\Debug\net8.0\ChessLogic.dl
 C:\Users\Fergus\source\repos\ChessGame\ChessLogic\obj\Debug\net8.0\refint\ChessLogic.dll
 C:\Users\Fergus\source\repos\ChessGame\ChessLogic\obj\Debug\net8.0\ChessLogic.pdb
 C:\Users\Fergus\source\repos\ChessGame\ChessLogic\obj\Debug\net8.0\ref\ChessLogic.dll
+C:\Users\Fergus\Documents\GitHub\ChessGame-In-Progress-\ChessGame\ChessLogic\bin\Debug\net8.0\ChessLogic.deps.json
+C:\Users\Fergus\Documents\GitHub\ChessGame-In-Progress-\ChessGame\ChessLogic\bin\Debug\net8.0\ChessLogic.dll
+C:\Users\Fergus\Documents\GitHub\ChessGame-In-Progress-\ChessGame\ChessLogic\bin\Debug\net8.0\ChessLogic.pdb
+C:\Users\Fergus\Documents\GitHub\ChessGame-In-Progress-\ChessGame\ChessLogic\obj\Debug\net8.0\ChessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fergus\Documents\GitHub\ChessGame-In-Progress-\ChessGame\ChessLogic\obj\Debug\net8.0\ChessLogic.AssemblyInfoInputs.cache
+C:\Users\Fergus\Documents\GitHub\ChessGame-In-Progress-\ChessGame\ChessLogic\obj\Debug\net8.0\ChessLogic.AssemblyInfo.cs
+C:\Users\Fergus\Documents\GitHub\ChessGame-In-Progress-\ChessGame\ChessLogic\obj\Debug\net8.0\ChessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Fergus\Documents\GitHub\ChessGame-In-Progress-\ChessGame\ChessLogic\obj\Debug\net8.0\ChessLogic.sourcelink.json
+C:\Users\Fergus\Documents\GitHub\ChessGame-In-Progress-\ChessGame\ChessLogic\obj\Debug\net8.0\ChessLogic.dll
+C:\Users\Fergus\Documents\GitHub\ChessGame-In-Progress-\ChessGame\ChessLogic\obj\Debug\net8.0\refint\ChessLogic.dll
+C:\Users\Fergus\Documents\GitHub\ChessGame-In-Progress-\ChessGame\ChessLogic\obj\Debug\net8.0\ChessLogic.pdb
+C:\Users\Fergus\Documents\GitHub\ChessGame-In-Progress-\ChessGame\ChessLogic\obj\Debug\net8.0\ref\ChessLogic.dll
